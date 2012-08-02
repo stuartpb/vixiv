@@ -1,0 +1,31 @@
+{
+  warps:{
+    Taros: ["Winow"],
+    Winow: ["Mapate", "Renbuda"],
+    Renbuda: ["Igran", "Taros"],
+    Menfarb: ["Tif", "Zagueel", "Gurin Fa"],
+    Mapate: ["Mordarl", "Igran"],
+    Igran: ["Chekon", "Sankmee"],
+    Chekon: ["Menfarb", "Pukkeera", "Mapate", "Igran"],
+    Nerleeni: ["Rappi"],
+    Zagueel: ["Logree", "Pukkeera"],
+    Pukkeera: ["Rappi", "Chekon"],
+    Fana: ["Sankmee"]
+    Sankmee: ["Menfarb", "Igran", "Renbuda", "Dalde-Dalde"],
+    Logree: ["Zagueel", "Menfarb"],
+    Tif: ["Logree"],
+    "Gurin Fa": ["Earth"],
+    "Dalde-Dalde": ["Sankmee","Winow"],
+    Rappi: ["Nerleeni", "Tif"],
+    "Tetamus II": [],
+    Earth: ["Tetamus II"],
+    Mordarl: ["Mapate"],
+  }
+
+  hidden: {
+    Taros: ["Menfarb"],
+    Winow: ["Rappi","Dalde-Dalde"],
+    Renbuda: ["Fana"],
+    "Dalde-Dalde": ["Winow"]
+  }
+}
