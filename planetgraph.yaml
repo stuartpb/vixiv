@@ -1,0 +1,165 @@
+Taros:
+  warps:
+    Winow:
+      dist:
+      time:
+    Menfarb:
+      hidden: true
+      dist: 41.2
+      time: 60
+Winow:
+  warps:
+    Mapate:
+      dist:
+      time:
+    Renbuda:
+      dist:
+      time:
+    Rappi:
+      hidden: true
+      dist:
+      time:
+    Dalde-Dalde:
+      hidden: true
+      dist:
+      time:
+Renbuda:
+  warps:
+    Igran:
+      dist:
+      time:
+    Taros:
+      dist:
+      time:
+    Fana:
+      hidden: true
+      dist:
+      time:
+Menfarb:
+  warps:
+    Tif:
+      dist:
+      time:
+    Zagueel:
+      dist:
+      time:
+    Gurin Fa:
+      dist: 7.8
+      time: 30
+Mapate:
+  warps:
+    Mordarl:
+      dist:
+      time:
+    Igran:
+      dist:
+      time:
+Igran:
+  warps:
+    Chekon:
+      dist:
+      time:
+    Sankmee:
+      dist:
+      time:
+Chekon:
+  warps:
+    Menfarb:
+      dist:
+      time:
+    Pukkeera:
+      dist:
+      time:
+    Mapate:
+      dist:
+      time:
+    Igran:
+      dist:
+      time:
+Nerleeni:
+  warps:
+    Rappi:
+      dist:
+      time:
+Zagueel:
+  warps:
+    Logree:
+      dist:
+      time:
+    Pukkeera:
+      dist:
+      time:
+Pukkeera:
+  warps:
+    Rappi:
+      dist:
+      time:
+    Chekon:
+      dist:
+      time:
+Fana:
+  warps:
+    Sankmee:
+      dist:
+      time:
+Sankmee:
+  warps:
+    Menfarb:
+      dist:
+      time:
+    Igran:
+      dist:
+      time:
+    Renbuda:
+      dist:
+      time:
+    Dalde-Dalde:
+      dist:
+      time:
+Logree:
+  warps:
+    Zagueel:
+      dist:
+      time:
+    Menfarb:
+      dist:
+      time:
+Tif:
+  warps:
+    Logree:
+      dist:
+      time:
+Gurin Fa:
+  warps:
+    Earth:
+      dist: 5.8
+      time: 25
+Dalde-Dalde:
+  warps:
+    Sankmee:
+      dist:
+      time:
+    Winow:
+      hidden: true
+      dist:
+      time:
+Rappi:
+  warps:
+    Nerleeni:
+      dist:
+      time:
+    Tif:
+      dist:
+      time:
+Tetamus II:
+  warps: {}
+Earth:
+  warps:
+    Menfarb:
+      dist: 8.3
+      time: 30
+Mordarl:
+  warps:
+    Mapate:
+      dist:
+      time:
