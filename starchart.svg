@@ -48,7 +48,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     id="Nerleeni-group"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <g
@@ -60,28 +60,28 @@
          sodipodi:rx="20.833334"
          sodipodi:cy="97.5"
          sodipodi:cx="217.5"
-         id="path2993"
+         id="Nerleeni-node"
          style="fill:none;stroke:#ff0000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
          sodipodi:type="arc" />
       <text
          sodipodi:linespacing="125%"
-         id="text3763"
+         id="Nerleeni-label"
          y="146.66667"
          x="243.33333"
          style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            y="146.66667"
            x="243.33333"
-           id="tspan3765"
+           id="Nerleeni-span"
            sodipodi:role="line">Nerleeni</tspan></text>
     </g>
     <g
-       id="g3772"
+       id="Rappi-group"
        transform="matrix(0.5,0,0,0.5,249.16666,-7.30175)">
       <path
          sodipodi:type="arc"
          style="fill:none;stroke:#ff0000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
-         id="path3774"
+         id="Rappi-node"
          sodipodi:cx="217.5"
          sodipodi:cy="97.5"
          sodipodi:rx="20.833334"
@@ -92,44 +92,44 @@
          style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          x="243.33333"
          y="146.66667"
-         id="text3776"
+         id="Rappi-label"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
-           id="tspan3778"
+           id="Rappi-span"
            x="243.33333"
            y="146.66667">Rappi</tspan></text>
     </g>
     <g
        transform="matrix(0.5,0,0,0.5,408.33332,17.69825)"
-       id="g3780">
+       id="Tif-group">
       <path
          d="m 238.33333,97.5 c 0,11.50593 -9.3274,20.83333 -20.83333,20.83333 -11.50593,0 -20.83333,-9.3274 -20.83333,-20.83333 0,-11.505933 9.3274,-20.833334 20.83333,-20.833334 11.50593,0 20.83333,9.327401 20.83333,20.833334 z"
          sodipodi:ry="20.833334"
          sodipodi:rx="20.833334"
          sodipodi:cy="97.5"
          sodipodi:cx="217.5"
-         id="path3782"
+         id="Tif-node"
          style="fill:none;stroke:#ff0000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
          sodipodi:type="arc" />
       <text
          sodipodi:linespacing="125%"
-         id="text3784"
+         id="Tif-label"
          y="146.66667"
          x="243.33333"
          style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            y="146.66667"
            x="243.33333"
-           id="tspan3786"
+           id="Tif-span"
            sodipodi:role="line">Tif</tspan></text>
     </g>
     <g
-       id="g3788"
+       id="Logree-group"
        transform="matrix(0.5,0,0,0.5,327.49999,38.53158)">
       <path
          sodipodi:type="arc"
          style="fill:none;stroke:#ff0000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
-         id="path3790"
+         id="Logree-node"
          sodipodi:cx="217.5"
          sodipodi:cy="97.5"
          sodipodi:rx="20.833334"
@@ -140,68 +140,68 @@
          style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          x="243.33333"
          y="146.66667"
-         id="text3792"
+         id="Logree-label"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
-           id="tspan3794"
+           id="Logree-span"
            x="243.33333"
            y="146.66667">Logree</tspan></text>
     </g>
     <g
        transform="matrix(0.5,0,0,0.5,124.99999,75.19825)"
-       id="g3796">
+       id="Pukkeera-group">
       <path
          d="m 238.33333,97.5 c 0,11.50593 -9.3274,20.83333 -20.83333,20.83333 -11.50593,0 -20.83333,-9.3274 -20.83333,-20.83333 0,-11.505933 9.3274,-20.833334 20.83333,-20.833334 11.50593,0 20.83333,9.327401 20.83333,20.833334 z"
          sodipodi:ry="20.833334"
          sodipodi:rx="20.833334"
          sodipodi:cy="97.5"
          sodipodi:cx="217.5"
-         id="path3798"
+         id="Pukkeera-node"
          style="fill:none;stroke:#ff0000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
          sodipodi:type="arc" />
       <text
          sodipodi:linespacing="125%"
-         id="text3800"
+         id="Pukkeera-label"
          y="146.66667"
          x="188.33333"
          style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            y="146.66667"
            x="188.33333"
-           id="tspan3802"
+           id="Pukkeera-span"
            sodipodi:role="line">Pukkeera</tspan></text>
     </g>
     <g
        transform="matrix(0.5,0,0,0.5,225.83333,95.19825)"
-       id="g3804">
+       id="Zagueel-group">
       <path
          d="m 238.33333,97.5 c 0,11.50593 -9.3274,20.83333 -20.83333,20.83333 -11.50593,0 -20.83333,-9.3274 -20.83333,-20.83333 0,-11.505933 9.3274,-20.833334 20.83333,-20.833334 11.50593,0 20.83333,9.327401 20.83333,20.833334 z"
          sodipodi:ry="20.833334"
          sodipodi:rx="20.833334"
          sodipodi:cy="97.5"
          sodipodi:cx="217.5"
-         id="path3806"
+         id="Zagueel-node"
          style="fill:none;stroke:#ff0000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
          sodipodi:type="arc" />
       <text
          sodipodi:linespacing="125%"
-         id="text3808"
+         id="Zagueel-label"
          y="146.66667"
          x="243.33333"
          style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            y="146.66667"
            x="243.33333"
-           id="tspan3810"
+           id="Zagueel-span"
            sodipodi:role="line">Zagueel</tspan></text>
     </g>
     <g
-       id="g3812"
+       id="Menfarb-group"
        transform="matrix(0.5,0,0,0.5,413.33332,150.19825)">
       <path
          sodipodi:type="arc"
          style="fill:none;stroke:#ff0000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
-         id="path3814"
+         id="Menfarb-node"
          sodipodi:cx="217.5"
          sodipodi:cy="97.5"
          sodipodi:rx="20.833334"
@@ -212,44 +212,44 @@
          style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          x="243.33333"
          y="146.66667"
-         id="text3816"
+         id="Menfarb-label"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
-           id="tspan3818"
+           id="Menfarb-span"
            x="243.33333"
            y="146.66667">Menfarb</tspan></text>
     </g>
     <g
        transform="matrix(0.5,0,0,0.5,512.49998,121.03158)"
-       id="g3820">
+       id="Earth-group">
       <path
          d="m 238.33333,97.5 c 0,11.50593 -9.3274,20.83333 -20.83333,20.83333 -11.50593,0 -20.83333,-9.3274 -20.83333,-20.83333 0,-11.505933 9.3274,-20.833334 20.83333,-20.833334 11.50593,0 20.83333,9.327401 20.83333,20.833334 z"
          sodipodi:ry="20.833334"
          sodipodi:rx="20.833334"
          sodipodi:cy="97.5"
          sodipodi:cx="217.5"
-         id="path3822"
+         id="Earth-node"
          style="fill:none;stroke:#ff0000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
          sodipodi:type="arc" />
       <text
          sodipodi:linespacing="125%"
-         id="text3824"
+         id="Earth-label"
          y="146.66667"
          x="243.33333"
          style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            y="146.66667"
            x="243.33333"
-           id="tspan3826"
+           id="Earth-span"
            sodipodi:role="line">Earth</tspan></text>
     </g>
     <g
-       id="g3828"
+       id="Tetamus_II-group"
        transform="matrix(0.5,0,0,0.5,563.33332,50.19825)">
       <path
          sodipodi:type="arc"
          style="fill:none;stroke:#ff0000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
-         id="path3830"
+         id="Tetamus_II-node"
          sodipodi:cx="217.5"
          sodipodi:cy="97.5"
          sodipodi:rx="20.833334"
@@ -260,44 +260,44 @@
          style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          x="243.33333"
          y="146.66667"
-         id="text3832"
+         id="Tetamus_II-label"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
-           id="tspan3834"
+           id="Tetamus_II-span"
            x="243.33333"
            y="146.66667">Tetamus II</tspan></text>
     </g>
     <g
        transform="matrix(0.5,0,0,0.5,572.49998,183.53159)"
-       id="g3836">
+       id="Gurin_Fa-group">
       <path
          d="m 238.33333,97.5 c 0,11.50593 -9.3274,20.83333 -20.83333,20.83333 -11.50593,0 -20.83333,-9.3274 -20.83333,-20.83333 0,-11.505933 9.3274,-20.833334 20.83333,-20.833334 11.50593,0 20.83333,9.327401 20.83333,20.833334 z"
          sodipodi:ry="20.833334"
          sodipodi:rx="20.833334"
          sodipodi:cy="97.5"
          sodipodi:cx="217.5"
-         id="path3838"
+         id="Gurin_Fa-node"
          style="fill:none;stroke:#ff0000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
          sodipodi:type="arc" />
       <text
          sodipodi:linespacing="125%"
-         id="text3840"
+         id="Gurin_Fa-label"
          y="146.66667"
          x="243.33333"
          style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            y="146.66667"
            x="243.33333"
-           id="tspan3842"
+           id="Gurin_Fa-span"
            sodipodi:role="line">Gurin Fa</tspan></text>
     </g>
     <g
-       id="g3844"
+       id="Chekon-group"
        transform="matrix(0.5,0,0,0.5,109.99999,163.53159)">
       <path
          sodipodi:type="arc"
          style="fill:none;stroke:#ff0000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
-         id="path3846"
+         id="Chekon-node"
          sodipodi:cx="217.5"
          sodipodi:cy="97.5"
          sodipodi:rx="20.833334"
@@ -308,44 +308,44 @@
          style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          x="243.33333"
          y="146.66667"
-         id="text3848"
+         id="Chekon-label"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
-           id="tspan3850"
+           id="Chekon-span"
            x="243.33333"
            y="146.66667">Chekon</tspan></text>
     </g>
     <g
        transform="matrix(0.5,0,0,0.5,5.83332,56.03159)"
-       id="g3860">
+       id="Mordarl-group">
       <path
          d="m 238.33333,97.5 c 0,11.50593 -9.3274,20.83333 -20.83333,20.83333 -11.50593,0 -20.83333,-9.3274 -20.83333,-20.83333 0,-11.505933 9.3274,-20.833334 20.83333,-20.833334 11.50593,0 20.83333,9.327401 20.83333,20.833334 z"
          sodipodi:ry="20.833334"
          sodipodi:rx="20.833334"
          sodipodi:cy="97.5"
          sodipodi:cx="217.5"
-         id="path3862"
+         id="Mordarl-node"
          style="fill:none;stroke:#ff0000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
          sodipodi:type="arc" />
       <text
          sodipodi:linespacing="125%"
-         id="text3864"
+         id="Mordarl-label"
          y="146.66667"
          x="243.33333"
          style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            y="146.66667"
            x="243.33333"
-           id="tspan3866"
+           id="Mordarl-span"
            sodipodi:role="line">Mordarl</tspan></text>
     </g>
     <g
-       id="g3868"
+       id="Mapate-group"
        transform="matrix(0.5,0,0,0.5,-40.833347,156.03159)">
       <path
          sodipodi:type="arc"
          style="fill:none;stroke:#ff0000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
-         id="path3870"
+         id="Mapate-node"
          sodipodi:cx="217.5"
          sodipodi:cy="97.5"
          sodipodi:rx="20.833334"
@@ -356,44 +356,44 @@
          style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          x="243.33333"
          y="146.66667"
-         id="text3872"
+         id="Mapate-label"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
-           id="tspan3874"
+           id="Mapate-span"
            x="243.33333"
            y="146.66667">Mapate</tspan></text>
     </g>
     <g
        transform="matrix(0.5,0,0,0.5,10.83332,226.03159)"
-       id="g3876">
+       id="Winow-group">
       <path
          d="m 238.33333,97.5 c 0,11.50593 -9.3274,20.83333 -20.83333,20.83333 -11.50593,0 -20.83333,-9.3274 -20.83333,-20.83333 0,-11.505933 9.3274,-20.833334 20.83333,-20.833334 11.50593,0 20.83333,9.327401 20.83333,20.833334 z"
          sodipodi:ry="20.833334"
          sodipodi:rx="20.833334"
          sodipodi:cy="97.5"
          sodipodi:cx="217.5"
-         id="path3878"
+         id="Winow-node"
          style="fill:none;stroke:#ff0000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
          sodipodi:type="arc" />
       <text
          sodipodi:linespacing="125%"
-         id="text3880"
+         id="Winow-label"
          y="146.66667"
          x="243.33333"
          style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            y="146.66667"
            x="243.33333"
-           id="tspan3882"
+           id="Winow-span"
            sodipodi:role="line">Winow</tspan></text>
     </g>
     <g
-       id="g3884"
+       id="Renbuda-group"
        transform="matrix(0.5,0,0,0.5,115.83332,287.69826)">
       <path
          sodipodi:type="arc"
          style="fill:none;stroke:#ff0000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
-         id="path3886"
+         id="Renbuda-node"
          sodipodi:cx="217.5"
          sodipodi:cy="97.5"
          sodipodi:rx="20.833334"
@@ -404,44 +404,44 @@
          style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          x="243.33333"
          y="146.66667"
-         id="text3888"
+         id="Renbuda-label"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
-           id="tspan3890"
+           id="Renbuda-span"
            x="243.33333"
            y="146.66667">Renbuda</tspan></text>
     </g>
     <g
        transform="matrix(0.5,0,0,0.5,210.83332,227.69826)"
-       id="g3892">
+       id="Igran-group">
       <path
          d="m 238.33333,97.5 c 0,11.50593 -9.3274,20.83333 -20.83333,20.83333 -11.50593,0 -20.83333,-9.3274 -20.83333,-20.83333 0,-11.505933 9.3274,-20.833334 20.83333,-20.833334 11.50593,0 20.83333,9.327401 20.83333,20.833334 z"
          sodipodi:ry="20.833334"
          sodipodi:rx="20.833334"
          sodipodi:cy="97.5"
          sodipodi:cx="217.5"
-         id="path3894"
+         id="Igran-node"
          style="fill:none;stroke:#ff0000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
          sodipodi:type="arc" />
       <text
          sodipodi:linespacing="125%"
-         id="text3896"
+         id="Igran-label"
          y="146.66667"
          x="243.33333"
          style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            y="146.66667"
            x="243.33333"
-           id="tspan3898"
+           id="Igran-span"
            sodipodi:role="line">Igran</tspan></text>
     </g>
     <g
-       id="g3900"
+       id="Sankmee-group"
        transform="matrix(0.5,0,0,0.5,415.83332,246.03159)">
       <path
          sodipodi:type="arc"
          style="fill:none;stroke:#ff0000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
-         id="path3902"
+         id="Sankmee-node"
          sodipodi:cx="217.5"
          sodipodi:cy="97.5"
          sodipodi:rx="20.833334"
@@ -452,68 +452,68 @@
          style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          x="243.33333"
          y="146.66667"
-         id="text3904"
+         id="Sankmee-label"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
-           id="tspan3906"
+           id="Sankmee-span"
            x="243.33333"
            y="146.66667">Sankmee</tspan></text>
     </g>
     <g
        transform="matrix(0.5,0,0,0.5,587.49998,302.69826)"
-       id="g3908">
+       id="Dalde-Dalde-group">
       <path
          d="m 238.33333,97.5 c 0,11.50593 -9.3274,20.83333 -20.83333,20.83333 -11.50593,0 -20.83333,-9.3274 -20.83333,-20.83333 0,-11.505933 9.3274,-20.833334 20.83333,-20.833334 11.50593,0 20.83333,9.327401 20.83333,20.833334 z"
          sodipodi:ry="20.833334"
          sodipodi:rx="20.833334"
          sodipodi:cy="97.5"
          sodipodi:cx="217.5"
-         id="path3910"
+         id="Dalde-Dalde-node"
          style="fill:none;stroke:#ff0000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
          sodipodi:type="arc" />
       <text
          sodipodi:linespacing="125%"
-         id="text3912"
+         id="Dalde-Dalde-label"
          y="146.66667"
          x="243.33333"
          style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            y="146.66667"
            x="243.33333"
-           id="tspan3914"
+           id="Dalde-Dalde-span"
            sodipodi:role="line">Dalde-Dalde</tspan></text>
     </g>
     <g
        transform="matrix(0.5,0,0,0.5,-84.16668,316.03159)"
-       id="g3916">
+       id="Taros-group">
       <path
          d="m 238.33333,97.5 c 0,11.50593 -9.3274,20.83333 -20.83333,20.83333 -11.50593,0 -20.83333,-9.3274 -20.83333,-20.83333 0,-11.505933 9.3274,-20.833334 20.83333,-20.833334 11.50593,0 20.83333,9.327401 20.83333,20.833334 z"
          sodipodi:ry="20.833334"
          sodipodi:rx="20.833334"
          sodipodi:cy="97.5"
          sodipodi:cx="217.5"
-         id="path3918"
+         id="Taros-node"
          style="fill:none;stroke:#ff0000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
          sodipodi:type="arc" />
       <text
          sodipodi:linespacing="125%"
-         id="text3920"
+         id="Taros-label"
          y="146.66667"
          x="243.33333"
          style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            y="146.66667"
            x="243.33333"
-           id="tspan3922"
+           id="Taros-span"
            sodipodi:role="line">Taros</tspan></text>
     </g>
     <g
-       id="g3924"
+       id="Fana-group"
        transform="matrix(0.5,0,0,0.5,365.83332,324.36492)">
       <path
          sodipodi:type="arc"
          style="fill:none;stroke:#ff0000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
-         id="path3926"
+         id="Fana-node"
          sodipodi:cx="217.5"
          sodipodi:cy="97.5"
          sodipodi:rx="20.833334"
@@ -524,12 +524,13 @@
          style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          x="243.33333"
          y="146.66667"
-         id="text3928"
+         id="Fana-label"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
-           id="tspan3930"
+           id="Fana-span"
            x="243.33333"
            y="146.66667">Fana</tspan></text>
     </g>
   </g>
 </svg>
+20
