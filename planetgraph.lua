@@ -33,5 +33,13 @@ stats={
   Menfarb={ --from Taros
     dist = 41.2e10,
     time = 60
-  }
+  },
+  ["Gurin Fa"]={ --from Menfarb
+    dist = 7.8e10,
+    time = 30
+  },
+  Earth={ --from Gurin Fa
+    dist = 5.8e10,
+    time = 25
+  },
 }
