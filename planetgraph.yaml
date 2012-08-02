@@ -38,11 +38,11 @@ Renbuda:
 Menfarb:
   warps:
     Tif:
-      dist:
-      time:
+      dist: 7.4
+      time: 35
     Zagueel:
-      dist:
-      time:
+      dist: 12.2
+      time: 35
     Gurin Fa:
       dist: 7.8
       time: 30
@@ -84,16 +84,16 @@ Nerleeni:
 Zagueel:
   warps:
     Logree:
-      dist:
-      time:
+      dist: 6.3
+      time: 25
     Pukkeera:
-      dist:
-      time:
+      dist: 6.0
+      time: 25
 Pukkeera:
   warps:
     Rappi:
-      dist:
-      time:
+      dist: 9.8
+      time: 30
     Chekon:
       dist:
       time:
@@ -119,16 +119,16 @@ Sankmee:
 Logree:
   warps:
     Zagueel:
-      dist:
-      time:
+      dist: 6.3
+      time: 25
     Menfarb:
-      dist:
-      time:
+      dist: 12.0
+      time: 35
 Tif:
   warps:
     Logree:
-      dist:
-      time:
+      dist: 5.6
+      time: 25
 Gurin Fa:
   warps:
     Earth:
@@ -149,8 +149,8 @@ Rappi:
       dist:
       time:
     Tif:
-      dist:
-      time:
+      dist: 7.4
+      time: 25
 Tetamus II:
   warps: {}
 Earth:
