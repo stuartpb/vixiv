@@ -21,7 +21,13 @@
      .planet-node {
         fill: none;
         stroke: red;
-        stroke-width: 10px;
+        stroke-width: 5px;
+     }
+     .planet-label {
+        font-size: 14px;
+        fill: red;
+        stroke: none;
+        font-family: Eurostile, sans-serif;
      }
   </style>
   <sodipodi:namedview
@@ -54,429 +60,267 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     id="Nerleeni-group"
-     inkscape:label="Layer 1"
+  <g id="layer"
      inkscape:groupmode="layer">
-    <g
-       id="g3767"
-       transform="matrix(0.5,0,0,0.5,114.16666,6.03158)">
+      <g id="Nerleeni-group">
       <circle
          id="Nerleeni-node"
-         cx="217.5"
-         cy="97.5"
-         r="20"
+         cx="222.91666"
+         cy="54.78158"
+         r="10"
          class="planet-node" />
       <text
-         sodipodi:linespacing="125%"
          id="Nerleeni-label"
-         y="146.66667"
-         x="243.33333"
-         style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="146.66667"
-           x="243.33333"
-           id="Nerleeni-span"
-           sodipodi:role="line">Nerleeni</tspan></text>
+         x="235.833325"
+         y="79.36491"
+         class="planet-label">Nerleeni</text>
     </g>
-    <g
-       id="Rappi-group"
-       transform="matrix(0.5,0,0,0.5,249.16666,-7.30175)">
+    <g id="Rappi-group">
       <circle
          id="Rappi-node"
-         cx="217.5"
-         cy="97.5"
-         r="20"
+         cx="357.91666"
+         cy="41.44825"
+         r="10"
          class="planet-node" />
       <text
-         xml:space="preserve"
-         style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="243.33333"
-         y="146.66667"
          id="Rappi-label"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="Rappi-span"
-           x="243.33333"
-           y="146.66667">Rappi</tspan></text>
+         x="370.833325"
+         y="66.03158"
+         class="planet-label">Rappi</text>
     </g>
-    <g
-       transform="matrix(0.5,0,0,0.5,408.33332,17.69825)"
-       id="Tif-group">
+    <g id="Tif-group">
       <circle
          id="Tif-node"
-         cx="217.5"
-         cy="97.5"
-         r="20"
+         cx="517.08332"
+         cy="66.44825"
+         r="10"
          class="planet-node" />
       <text
-         sodipodi:linespacing="125%"
          id="Tif-label"
-         y="146.66667"
-         x="243.33333"
-         style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="146.66667"
-           x="243.33333"
-           id="Tif-span"
-           sodipodi:role="line">Tif</tspan></text>
+         x="529.999985"
+         y="91.03158"
+         class="planet-label">Tif</text>
     </g>
-    <g
-       id="Logree-group"
-       transform="matrix(0.5,0,0,0.5,327.49999,38.53158)">
+    <g id="Logree-group">
       <circle
          id="Logree-node"
-         cx="217.5"
-         cy="97.5"
-         r="20"
+         cx="436.24999"
+         cy="87.28158"
+         r="10"
          class="planet-node" />
       <text
-         xml:space="preserve"
-         style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="243.33333"
-         y="146.66667"
          id="Logree-label"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="Logree-span"
-           x="243.33333"
-           y="146.66667">Logree</tspan></text>
+         x="449.166655"
+         y="111.86491"
+         class="planet-label">Logree</text>
     </g>
-    <g
-       transform="matrix(0.5,0,0,0.5,124.99999,75.19825)"
-       id="Pukkeera-group">
+    <g id="Pukkeera-group">
       <circle
          id="Pukkeera-node"
-         cx="217.5"
-         cy="97.5"
-         r="20"
+         cx="233.74999"
+         cy="123.94825"
+         r="10"
          class="planet-node" />
       <text
-         sodipodi:linespacing="125%"
          id="Pukkeera-label"
-         y="146.66667"
-         x="188.33333"
-         style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="146.66667"
-           x="188.33333"
-           id="Pukkeera-span"
-           sodipodi:role="line">Pukkeera</tspan></text>
+         x="219.166655"
+         y="148.53158"
+         class="planet-label">Pukkeera</text>
     </g>
-    <g
-       transform="matrix(0.5,0,0,0.5,225.83333,95.19825)"
-       id="Zagueel-group">
+    <g id="Zagueel-group">
       <circle
          id="Zagueel-node"
-         cx="217.5"
-         cy="97.5"
-         r="20"
+         cx="334.58333"
+         cy="143.94825"
+         r="10"
          class="planet-node" />
       <text
-         sodipodi:linespacing="125%"
          id="Zagueel-label"
-         y="146.66667"
-         x="243.33333"
-         style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="146.66667"
-           x="243.33333"
-           id="Zagueel-span"
-           sodipodi:role="line">Zagueel</tspan></text>
+         x="347.499995"
+         y="168.53158"
+         class="planet-label">Zagueel</text>
     </g>
-    <g
-       id="Menfarb-group"
-       transform="matrix(0.5,0,0,0.5,413.33332,150.19825)">
+    <g id="Menfarb-group">
       <circle
          id="Menfarb-node"
-         cx="217.5"
-         cy="97.5"
-         r="20"
+         cx="522.08332"
+         cy="198.94825"
+         r="10"
          class="planet-node" />
       <text
-         xml:space="preserve"
-         style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="243.33333"
-         y="146.66667"
          id="Menfarb-label"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="Menfarb-span"
-           x="243.33333"
-           y="146.66667">Menfarb</tspan></text>
+         x="534.999985"
+         y="223.53158"
+         class="planet-label">Menfarb</text>
     </g>
-    <g
-       transform="matrix(0.5,0,0,0.5,512.49998,121.03158)"
-       id="Earth-group">
+    <g id="Earth-group">
       <circle
          id="Earth-node"
-         cx="217.5"
-         cy="97.5"
-         r="20"
+         cx="621.24998"
+         cy="169.78158"
+         r="10"
          class="planet-node" />
       <text
-         sodipodi:linespacing="125%"
          id="Earth-label"
-         y="146.66667"
-         x="243.33333"
-         style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="146.66667"
-           x="243.33333"
-           id="Earth-span"
-           sodipodi:role="line">Earth</tspan></text>
+         x="634.166645"
+         y="194.36491"
+         class="planet-label">Earth</text>
     </g>
-    <g
-       id="Tetamus_II-group"
-       transform="matrix(0.5,0,0,0.5,563.33332,50.19825)">
+    <g id="Tetamus_II-group">
       <circle
          id="Tetamus_II-node"
-         cx="217.5"
-         cy="97.5"
-         r="20"
+         cx="672.08332"
+         cy="98.94825"
+         r="10"
          class="planet-node" />
       <text
-         xml:space="preserve"
-         style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="243.33333"
-         y="146.66667"
          id="Tetamus_II-label"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="Tetamus_II-span"
-           x="243.33333"
-           y="146.66667">Tetamus II</tspan></text>
+         x="684.999985"
+         y="123.53158"
+         class="planet-label">Tetamus II</text>
     </g>
-    <g
-       transform="matrix(0.5,0,0,0.5,572.49998,183.53159)"
-       id="Gurin_Fa-group">
+    <g id="Gurin_Fa-group">
       <circle
          id="Gurin_Fa-node"
-         cx="217.5"
-         cy="97.5"
-         r="20"
+         cx="681.24998"
+         cy="232.28159"
+         r="10"
          class="planet-node" />
       <text
-         sodipodi:linespacing="125%"
          id="Gurin_Fa-label"
-         y="146.66667"
-         x="243.33333"
-         style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="146.66667"
-           x="243.33333"
-           id="Gurin_Fa-span"
-           sodipodi:role="line">Gurin Fa</tspan></text>
+         x="694.166645"
+         y="256.86492"
+         class="planet-label">Gurin Fa</text>
     </g>
-    <g
-       id="Chekon-group"
-       transform="matrix(0.5,0,0,0.5,109.99999,163.53159)">
+    <g id="Chekon-group">
       <circle
          id="Chekon-node"
-         cx="217.5"
-         cy="97.5"
-         r="20"
+         cx="218.74999"
+         cy="212.28159"
+         r="10"
          class="planet-node" />
       <text
-         xml:space="preserve"
-         style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="243.33333"
-         y="146.66667"
          id="Chekon-label"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="Chekon-span"
-           x="243.33333"
-           y="146.66667">Chekon</tspan></text>
+         x="231.666655"
+         y="236.86492"
+         class="planet-label">Chekon</text>
     </g>
-    <g
-       transform="matrix(0.5,0,0,0.5,5.83332,56.03159)"
-       id="Mordarl-group">
+    <g id="Mordarl-group">
       <circle
          id="Mordarl-node"
-         cx="217.5"
-         cy="97.5"
-         r="20"
+         cx="114.58332"
+         cy="104.78159"
+         r="10"
          class="planet-node" />
       <text
-         sodipodi:linespacing="125%"
          id="Mordarl-label"
-         y="146.66667"
-         x="243.33333"
-         style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="146.66667"
-           x="243.33333"
-           id="Mordarl-span"
-           sodipodi:role="line">Mordarl</tspan></text>
+         x="127.499985"
+         y="129.36492"
+         class="planet-label">Mordarl</text>
     </g>
-    <g
-       id="Mapate-group"
-       transform="matrix(0.5,0,0,0.5,-40.833347,156.03159)">
+    <g id="Mapate-group">
       <circle
          id="Mapate-node"
-         cx="217.5"
-         cy="97.5"
-         r="20"
+         cx="67.916653"
+         cy="204.78159"
+         r="10"
          class="planet-node" />
       <text
-         xml:space="preserve"
-         style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="243.33333"
-         y="146.66667"
          id="Mapate-label"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="Mapate-span"
-           x="243.33333"
-           y="146.66667">Mapate</tspan></text>
+         x="80.833318"
+         y="229.36492"
+         class="planet-label">Mapate</text>
     </g>
-    <g
-       transform="matrix(0.5,0,0,0.5,10.83332,226.03159)"
-       id="Winow-group">
+    <g id="Winow-group">
       <circle
          id="Winow-node"
-         cx="217.5"
-         cy="97.5"
-         r="20"
+         cx="119.58332"
+         cy="274.78159"
+         r="10"
          class="planet-node" />
       <text
-         sodipodi:linespacing="125%"
          id="Winow-label"
-         y="146.66667"
-         x="243.33333"
-         style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="146.66667"
-           x="243.33333"
-           id="Winow-span"
-           sodipodi:role="line">Winow</tspan></text>
+         x="132.499985"
+         y="299.36492"
+         class="planet-label">Winow</text>
     </g>
-    <g
-       id="Renbuda-group"
-       transform="matrix(0.5,0,0,0.5,115.83332,287.69826)">
+    <g id="Renbuda-group">
       <circle
          id="Renbuda-node"
-         cx="217.5"
-         cy="97.5"
-         r="20"
+         cx="224.58332"
+         cy="336.44826"
+         r="10"
          class="planet-node" />
       <text
-         xml:space="preserve"
-         style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="243.33333"
-         y="146.66667"
          id="Renbuda-label"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="Renbuda-span"
-           x="243.33333"
-           y="146.66667">Renbuda</tspan></text>
+         x="237.499985"
+         y="361.03159"
+         class="planet-label">Renbuda</text>
     </g>
-    <g
-       transform="matrix(0.5,0,0,0.5,210.83332,227.69826)"
-       id="Igran-group">
+    <g id="Igran-group">
       <circle
          id="Igran-node"
-         cx="217.5"
-         cy="97.5"
-         r="20"
+         cx="319.58332"
+         cy="276.44826"
+         r="10"
          class="planet-node" />
       <text
-         sodipodi:linespacing="125%"
          id="Igran-label"
-         y="146.66667"
-         x="243.33333"
-         style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="146.66667"
-           x="243.33333"
-           id="Igran-span"
-           sodipodi:role="line">Igran</tspan></text>
+         x="332.499985"
+         y="301.03159"
+         class="planet-label">Igran</text>
     </g>
-    <g
-       id="Sankmee-group"
-       transform="matrix(0.5,0,0,0.5,415.83332,246.03159)">
+    <g id="Sankmee-group">
       <circle
          id="Sankmee-node"
-         cx="217.5"
-         cy="97.5"
-         r="20"
+         cx="524.58332"
+         cy="294.78159"
+         r="10"
          class="planet-node" />
       <text
-         xml:space="preserve"
-         style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="243.33333"
-         y="146.66667"
          id="Sankmee-label"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="Sankmee-span"
-           x="243.33333"
-           y="146.66667">Sankmee</tspan></text>
+         x="537.499985"
+         y="319.36492"
+         class="planet-label">Sankmee</text>
     </g>
-    <g
-       transform="matrix(0.5,0,0,0.5,587.49998,302.69826)"
-       id="Dalde-Dalde-group">
+    <g id="Dalde-Dalde-group">
       <circle
          id="Dalde-Dalde-node"
-         cx="217.5"
-         cy="97.5"
-         r="20"
+         cx="696.24998"
+         cy="351.44826"
+         r="10"
          class="planet-node" />
       <text
-         sodipodi:linespacing="125%"
          id="Dalde-Dalde-label"
-         y="146.66667"
-         x="243.33333"
-         style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="146.66667"
-           x="243.33333"
-           id="Dalde-Dalde-span"
-           sodipodi:role="line">Dalde-Dalde</tspan></text>
+         x="709.166645"
+         y="376.03159"
+         class="planet-label">Dalde-Dalde</text>
     </g>
-    <g
-       transform="matrix(0.5,0,0,0.5,-84.16668,316.03159)"
-       id="Taros-group">
+    <g id="Taros-group">
       <circle
          id="Taros-node"
-         cx="217.5"
-         cy="97.5"
-         r="20"
+         cx="24.58332"
+         cy="364.78159"
+         r="10"
          class="planet-node" />
       <text
-         sodipodi:linespacing="125%"
          id="Taros-label"
-         y="146.66667"
-         x="243.33333"
-         style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="146.66667"
-           x="243.33333"
-           id="Taros-span"
-           sodipodi:role="line">Taros</tspan></text>
+         x="37.499985"
+         y="389.36492"
+         class="planet-label">Taros</text>
     </g>
-    <g
-       id="Fana-group"
-       transform="matrix(0.5,0,0,0.5,365.83332,324.36492)">
+    <g id="Fana-group">
       <circle
          id="Fana-node"
-         cx="217.5"
-         cy="97.5"
-         r="20"
+         cx="474.58332"
+         cy="373.11492"
+         r="10"
          class="planet-node" />
       <text
-         xml:space="preserve"
-         style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="243.33333"
-         y="146.66667"
          id="Fana-label"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="Fana-span"
-           x="243.33333"
-           y="146.66667">Fana</tspan></text>
+         x="487.499985"
+         y="397.69825"
+         class="planet-label">Fana</text>
     </g>
   </g>
 </svg>
