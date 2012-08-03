@@ -74,6 +74,8 @@
      }
      .missing-data {
         stroke: blue;
+     }
+     .warp-line.missing-data {
         marker-end:url(#blue-head)
      }
      .two-way-warp {
@@ -81,7 +83,7 @@
      }
      .long-warp {
         stroke-width: 3px;
-        stroke-dasharray: 3,8;
+        stroke-dasharray: 3,6;
         marker-end:url(#long-warp-head)
      }
      .long-warp.missing-data {

@@ -14,13 +14,18 @@ var graph = require("./planetgraph.yaml")
 var warpLayer = scdoc.getElementById("warp-layer")
 
 for(start in graph) {
+  var startId = planetId(start)
+  var startNode = scdoc.getElementById(startId + "-node")
+  var startX = +startNode.getAttribute("cx")
+  var startY = +startNode.getAttribute("cy")
+
+  if (!graph[start].stats.mass) {
+    startNode.setAttribute("class","planet-node missing-data")
+  }
+
   for (dest in graph[start].warps) {
-    var startId = planetId(start)
     var destId = planetId(dest)
-    var startNode = scdoc.getElementById(startId + "-node")
     var destNode = scdoc.getElementById(destId + "-node")
-    var startX = +startNode.getAttribute("cx")
-    var startY = +startNode.getAttribute("cy")
     var destX = +destNode.getAttribute("cx")
     var destY = +destNode.getAttribute("cy")
     var deltaX = destX - startX
@@ -37,6 +42,8 @@ for(start in graph) {
 
     if (longwarp) {
       warpClass += " long-warp"
+      x1 += noderad * deltaX / length
+      y1 += noderad * deltaY / length
       x2 += (pointdist/2) * deltaX / length
       y2 += (pointdist/2) * deltaY / length
     }
