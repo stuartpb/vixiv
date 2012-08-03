@@ -19,10 +19,6 @@ for(start in graph) {
   var startX = +startNode.getAttribute("cx")
   var startY = +startNode.getAttribute("cy")
 
-  if (!graph[start].stats.mass) {
-    startNode.setAttribute("class","planet-node missing-data")
-  }
-
   for (dest in graph[start].warps) {
     var destId = planetId(dest)
     var destNode = scdoc.getElementById(destId + "-node")
@@ -54,10 +50,6 @@ for(start in graph) {
       x2 += mutshift * -deltaY / length + (longwarp?0:pointdist/4) * deltaX / length
       y1 += mutshift * deltaX / length
       y2 += mutshift * deltaX / length + (longwarp?0:pointdist/4) * deltaY / length
-    }
-
-    if (!graph[start].warps[dest].time) {
-      warpClass += " missing-data"
     }
 
     warpLine.setAttribute("id",startId+'-to-'+destId+'-warp')

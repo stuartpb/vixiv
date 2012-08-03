@@ -34,23 +34,8 @@
        orient="auto"
        refY="0.0"
        refX="0.0"
-       id="blue-head"
-       style="overflow:visible; fill: blue;">
-      <use xlink:href="#triplehead" />
-    <marker
-       orient="auto"
-       refY="0.0"
-       refX="0.0"
        id="long-warp-head"
        style="overflow:visible; fill: red;">
-      <use xlink:href="#arrowhead" />
-    </marker>
-    <marker
-       orient="auto"
-       refY="0.0"
-       refX="0.0"
-       id="long-blue-warp-head"
-       style="overflow:visible; fill: blue;">
       <use xlink:href="#arrowhead" />
     </marker>
   </defs>
@@ -72,12 +57,6 @@
         stroke-width: 5px;
         marker-end:url(#warp-head)
      }
-     .missing-data {
-        stroke: blue;
-     }
-     .warp-line.missing-data {
-        marker-end:url(#blue-head)
-     }
      .two-way-warp {
         stroke-width: 3px;
      }
@@ -85,9 +64,6 @@
         stroke-width: 3px;
         stroke-dasharray: 3,6;
         marker-end:url(#long-warp-head)
-     }
-     .long-warp.missing-data {
-        marker-end:url(#long-blue-warp-head)
      }
   </style>
   <metadata
@@ -110,26 +86,26 @@
     <g id="Nerleeni-group">
       <circle
          id="Nerleeni-node"
-         cx="222.91666"
+         cx="252.91666"
          cy="54.78158"
          r="10"
          class="planet-node" />
       <text
          id="Nerleeni-label"
-         x="235.833325"
+         x="255.833325"
          y="79.36491"
          class="planet-label">Nerleeni</text>
     </g>
     <g id="Rappi-group">
       <circle
          id="Rappi-node"
-         cx="357.91666"
+         cx="382.91666"
          cy="41.44825"
          r="10"
          class="planet-node" />
       <text
          id="Rappi-label"
-         x="370.833325"
+         x="395.833325"
          y="66.03158"
          class="planet-label">Rappi</text>
     </g>
@@ -162,27 +138,27 @@
     <g id="Pukkeera-group">
       <circle
          id="Pukkeera-node"
-         cx="233.74999"
-         cy="123.94825"
+         cx="278.74999"
+         cy="118.94825"
          r="10"
          class="planet-node" />
       <text
          id="Pukkeera-label"
-         x="219.166655"
-         y="148.53158"
+         x="254.166655"
+         y="143.53158"
          class="planet-label">Pukkeera</text>
     </g>
     <g id="Zagueel-group">
       <circle
          id="Zagueel-node"
-         cx="334.58333"
-         cy="143.94825"
+         cx="354.58333"
+         cy="153.94825"
          r="10"
          class="planet-node" />
       <text
          id="Zagueel-label"
-         x="347.499995"
-         y="168.53158"
+         x="357.499995"
+         y="188.53158"
          class="planet-label">Zagueel</text>
     </g>
     <g id="Menfarb-group">
@@ -240,13 +216,13 @@
     <g id="Chekon-group">
       <circle
          id="Chekon-node"
-         cx="218.74999"
+         cx="233.74999"
          cy="212.28159"
          r="10"
          class="planet-node" />
       <text
          id="Chekon-label"
-         x="231.666655"
+         x="246.666655"
          y="236.86492"
          class="planet-label">Chekon</text>
     </g>
