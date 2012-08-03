@@ -221,9 +221,9 @@ Rappi:
       time: 25
 Tetamus II:
   stats:
-    eqrad:
-    porad:
-    mass:
+    eqrad: 6350
+    porad: 6332
+    mass: 5.97
   warps: {}
 Earth:
   stats:
@@ -235,8 +235,8 @@ Earth:
       dist: 8.3
       time: 30
     Tetamus II:
-      dist:
-      time:
+      dist: ??
+      time: ??
 Mordarl:
   stats:
     eqrad: 29664
