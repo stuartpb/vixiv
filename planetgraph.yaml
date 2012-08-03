@@ -49,9 +49,9 @@ Renbuda:
       time: 35
 Menfarb:
   stats:
-    eqrad:
-    porad:
-    mass:
+    eqrad: 10280
+    porad: 9150
+    mass: 31
   warps:
     Tif:
       dist: 7.4
@@ -93,8 +93,8 @@ Chekon:
     mass: 0.71
   warps:
     Menfarb:
-      dist:
-      time:
+      dist: 16.4
+      time: 40
     Pukkeera:
       dist: 7.3
       time: 25
@@ -115,9 +115,9 @@ Nerleeni:
       time: 30
 Zagueel:
   stats:
-    eqrad:
-    porad:
-    mass:
+    eqrad: 12020
+    porad: 11210
+    mass: 6.06
   warps:
     Logree:
       dist: 6.3
@@ -166,9 +166,9 @@ Sankmee:
       time: 35
 Logree:
   stats:
-    eqrad:
-    porad:
-    mass:
+    eqrad: 50340
+    porad: 46790
+    mass: 420
   warps:
     Zagueel:
       dist: 6.3
@@ -178,18 +178,18 @@ Logree:
       time: 35
 Tif:
   stats:
-    eqrad:
-    porad:
-    mass:
+    eqrad: 1080
+    porad: 1062
+    mass: 0.7
   warps:
     Logree:
       dist: 5.6
       time: 25
 Gurin Fa:
   stats:
-    eqrad:
-    porad:
-    mass:
+    eqrad: 2802
+    porad: 2791
+    mass: 0.24
   warps:
     Earth:
       dist: 5.8
@@ -227,9 +227,9 @@ Tetamus II:
   warps: {}
 Earth:
   stats:
-    eqrad:
-    porad:
-    mass:
+    eqrad: 6378
+    porad: 6357
+    mass: 5.98
   warps:
     Menfarb:
       dist: 8.3
