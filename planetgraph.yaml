@@ -1,4 +1,12 @@
 Taros:
+  log: >
+    Power crystals
+    were discovered
+    and researched
+    on this remote
+    planet. Due to a
+    steady departure of scientists,
+    its heyday is over.
   stats:
     eqrad: 2214
     porad: 2214
@@ -12,6 +20,14 @@ Taros:
       dist: 41.2
       time: 60
 Winow:
+  log: >
+    A former epicenter
+    of civilization, this
+    planet was worn
+    down by war with
+    Taros. On top of
+    that, imperial forces invaded
+    from Tetamus II.
   stats:
     eqrad: 6422
     porad: 6398
@@ -32,6 +48,14 @@ Winow:
       dist: 40.4
       time: 40
 Renbuda:
+  log: >
+    Meteor showers
+    frequently pelt the
+    surface of this
+    small and sparsely
+    populated planet.
+    The landscape is marred by
+    craters.
   stats:
     eqrad: 26423
     porad: 25761
@@ -48,6 +72,14 @@ Renbuda:
       dist: 9.7
       time: 35
 Menfarb:
+  log: >
+    Menfarb is covered
+    in vast deserts and
+    dotted with derelict
+    mines. Scoundrels
+    have ruined the
+    government, and their corrup-
+    tion spreads to other worlds.
   stats:
     eqrad: 10280
     porad: 9150
@@ -63,6 +95,14 @@ Menfarb:
       dist: 7.8
       time: 30
 Mapate:
+  log: >
+    Deadly flora and
+    ferocious fauna
+    rule Mapate. Some
+    have tried to tame
+    the wild planet,
+    bt only the hardiest souls
+    can contend with its dangers.
   stats:
     eqrad: 6003
     porad: 6003
@@ -75,6 +115,14 @@ Mapate:
       dist: 16.2
       time: 25
 Igran:
+  log: >
+    Igran is orbited by
+    two large gaseous
+    moons, and it is
+    covered in active
+    volcanoes. Coura-
+    geous locals mine power
+    crystals from the volcanoes.
   stats:
     eqrad: 26138
     porad: 25637
@@ -87,6 +135,13 @@ Igran:
       dist: 13.4
       time: 25
 Chekon:
+  log: >
+    The recent discov-
+    ery of many power
+    crystals here has
+    triggered heated
+    competition for the
+    riches of this neutral planet.
   stats:
     eqrad: 3328
     porad: 3313
@@ -105,6 +160,14 @@ Chekon:
       dist: 8.7
       time: 30
 Nerleeni:
+  log: >
+    This vast and un-
+    charted world is
+    covered in dense
+    marshlands and
+    forests. It is home
+    to numerous giant insects, but
+    not much else.
   stats:
     eqrad: 3217
     porad: 3005
@@ -114,6 +177,14 @@ Nerleeni:
       dist: 7.2
       time: 30
 Zagueel:
+  log: >
+    Frequent solar
+    flares from the
+    nearby sun bake
+    the surface of
+    Zagueel. Living
+    conditions are harsh, and
+    technology falters easily.
   stats:
     eqrad: 12020
     porad: 11210
@@ -126,6 +197,14 @@ Zagueel:
       dist: 6.0
       time: 25
 Pukkeera:
+  log: >
+    Imperial forces
+    chased away the
+    population of
+    Pukkeera. The
+    planet's strategic
+    location made it an irresistible
+    target for the empire.
   stats:
     eqrad: 60380
     porad: 53227
@@ -138,6 +217,14 @@ Pukkeera:
       dist: 7.3
       time: 20
 Fana:
+  log: >
+    Inhabitants of Fana
+    focus on agricul-
+    ture and education.
+    Their museums and
+    libraries are highly
+    esteemed by those interested
+    in historical research.
   stats:
     eqrad: 4040
     porad: 4006
@@ -147,6 +234,14 @@ Fana:
       dist: 8.1
       time: 25
 Sankmee:
+  log: >
+    An abundance of
+    power crystals
+    draws many
+    adventurers to
+    Sankmee. An
+    abundance of poisonous gas
+    drives them away.
   stats:
     eqrad: 2642
     porad: 2621
@@ -165,6 +260,14 @@ Sankmee:
       dist: 11.5
       time: 35
 Logree:
+  log: >
+    The empire is
+    building a secret
+    weapon on Logree.
+    The massive planet
+    is covered with
+    deadly landmines that tend to
+    ward off trespassers.
   stats:
     eqrad: 50340
     porad: 46790
@@ -177,6 +280,14 @@ Logree:
       dist: 12.0
       time: 35
 Tif:
+  log: >
+    Cities on tiny Tif
+    are connected
+    by rail It's not an
+    industrial world,
+    but Tif exports
+    a great deal of its unique spice
+    to other planets.
   stats:
     eqrad: 1080
     porad: 1062
@@ -186,6 +297,14 @@ Tif:
       dist: 5.6
       time: 25
 Gurin Fa:
+  log: >
+    Undersea cities
+    hide from violent
+    blizzards on this
+    icy rock. Banks
+    strictly regulate
+    the trade of power crystals
+    mined on Gurin Fa.
   stats:
     eqrad: 2802
     porad: 2791
@@ -195,6 +314,14 @@ Gurin Fa:
       dist: 5.8
       time: 25
 Dalde-Dalde:
+  log: >
+    The worst criminals
+    in the galaxy are
+    exiled to the planet
+    Dalde-Dalde, a dark
+    rock with an un-
+    commonly wide orbit around
+    its distant star.
   stats:
     eqrad: 70310
     porad: 67822
@@ -208,6 +335,14 @@ Dalde-Dalde:
       dist: 40.4
       time: 40
 Rappi:
+  log: >
+    The planet Rappi
+    has the highest
+    crime rate in the
+    galaxy. Once a
+    beautiful planet,
+    criminals have made it a filthy
+    and corrupt place.
   stats:
     eqrad: 2916
     porad: 2892
@@ -220,12 +355,28 @@ Rappi:
       dist: 7.4
       time: 25
 Tetamus II:
+  log: >
+    The imperial army
+    made Tetamus II its
+    primary stronghold
+    after excavating a
+    giant power crystal
+    there. The empire grew and
+    usurped Winow's sovereignty.
   stats:
     eqrad: 6350
     porad: 6332
     mass: 5.97
   warps: {}
 Earth:
+  log: >
+    Once a lush and
+    beautiful world,
+    Earth became a
+    desolate-empty
+    place following a
+    cataclysmic battle with aliens
+    20 years ago.
   stats:
     eqrad: 6378
     porad: 6357
@@ -238,6 +389,14 @@ Earth:
       dist: ??
       time: ??
 Mordarl:
+  log: >
+    A cataclysmic
+    quake wiped out an
+    ancient cilivization.
+    A massive fissure
+    remains, but
+    settlers restored beauty to
+    this world 1,400 years ago.
   stats:
     eqrad: 29664
     porad: 28956
