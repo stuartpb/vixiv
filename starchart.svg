@@ -6,18 +6,37 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="800px"
    height="600px"
-   id="svg2985"
+   id="starchart-svg"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="New document 2">
-  <defs
-     id="defs2987" />
-  <style>
+   inkscape:version="0.48.3.1 r9886">
+  <defs id="defs">
+    <path id="arrowhead"
+       transform="scale(0.8)"
+       d="M 3,0 l -2,1 0,-2 z M 6,0 l -2,1 0,-2 z M 9,0 l -2,1 0,-2 z" />
+    <marker
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="have-data-head"
+       style="overflow:visible; fill: red;">
+      <use xlink:href="#arrowhead" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="missing-data-head"
+       style="overflow:visible; fill: blue;">
+      <use xlink:href="#arrowhead" />
+    </marker>
+  </defs>
+  <style id="styles">
      .planet-node {
         fill: none;
         stroke: red;
@@ -29,25 +48,23 @@
         stroke: none;
         font-family: Eurostile, sans-serif;
      }
+     .have-data-warp {
+        fill: none;
+        stroke: red;
+        stroke-width: 5px;
+        marker-end:url(#have-data-head)
+     }
+     .missing-data-warp {
+        fill: none;
+        stroke: blue;
+        stroke-width: 5px;
+        marker-end:url(#missing-data-head)
+     }
+     .hidden-warp {
+        stroke-width: 3px;
+        stroke-dasharray: 3,8;
+     }
   </style>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.6"
-     inkscape:cx="372.78226"
-     inkscape:cy="284.13858"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="px"
-     showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="680"
-     inkscape:window-x="0"
-     inkscape:window-y="31"
-     inkscape:window-maximized="1" />
   <metadata
      id="metadata2990">
     <rdf:RDF>
@@ -60,9 +77,9 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g id="layer"
+  <g id="planet-layer"
      inkscape:groupmode="layer">
-      <g id="Nerleeni-group">
+    <g id="Nerleeni-group">
       <circle
          id="Nerleeni-node"
          cx="222.91666"
