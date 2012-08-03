@@ -16,14 +16,32 @@
    version="1.1"
    inkscape:version="0.48.3.1 r9886">
   <defs id="defs">
-    <path id="arrowhead"
-       transform="scale(0.8)"
+    <path id="triplehead"
+       transform="scale(0.75)"
        d="M 3,0 l -2,1 0,-2 z M 6,0 l -2,1 0,-2 z M 9,0 l -2,1 0,-2 z" />
+    <path id="arrowhead"
+       transform="scale(0.75)"
+       d="M 3,0 l -2,1 0,-2 z" />
     <marker
        orient="auto"
        refY="0.0"
        refX="0.0"
-       id="have-data-head"
+       id="warp-head"
+       style="overflow:visible; fill: red;">
+      <use xlink:href="#triplehead" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="blue-head"
+       style="overflow:visible; fill: blue;">
+      <use xlink:href="#triplehead" />
+    <marker
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="long-warp-head"
        style="overflow:visible; fill: red;">
       <use xlink:href="#arrowhead" />
     </marker>
@@ -31,7 +49,7 @@
        orient="auto"
        refY="0.0"
        refX="0.0"
-       id="missing-data-head"
+       id="long-blue-warp-head"
        style="overflow:visible; fill: blue;">
       <use xlink:href="#arrowhead" />
     </marker>
@@ -48,21 +66,26 @@
         stroke: none;
         font-family: Eurostile, sans-serif;
      }
-     .have-data-warp {
+     .warp-line {
         fill: none;
         stroke: red;
         stroke-width: 5px;
-        marker-end:url(#have-data-head)
+        marker-end:url(#warp-head)
      }
-     .missing-data-warp {
-        fill: none;
+     .missing-data {
         stroke: blue;
-        stroke-width: 5px;
-        marker-end:url(#missing-data-head)
+        marker-end:url(#blue-head)
      }
-     .hidden-warp {
+     .two-way-warp {
+        stroke-width: 3px;
+     }
+     .long-warp {
         stroke-width: 3px;
         stroke-dasharray: 3,8;
+        marker-end:url(#long-warp-head)
+     }
+     .long-warp.missing-data {
+        marker-end:url(#long-blue-warp-head)
      }
   </style>
   <metadata
