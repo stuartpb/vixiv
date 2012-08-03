@@ -10,9 +10,7 @@ function planetId(name) { return name.replace(' ','_') }
 
 var graph = require("./planetgraph.yaml")
 
-var warpLayer = scdoc.createElement("g")
-warpLayer.setAttribute("id","warp-layer")
-warpLayer.setAttribute("inkscape:groupmode","layer")
+var warpLayer = scdoc.getElementById("warp-layer")
 
 for(start in graph) {
   for (dest in graph[start].warps) {
@@ -40,5 +38,4 @@ for(start in graph) {
   }
 }
 
-scdoc.getElementById("starchart-svg").appendChild(warpLayer)
 fs.writeFileSync("starchart-warpy.svg",scdoc.innerHTML,"utf-8")
