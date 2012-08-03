@@ -55,13 +55,17 @@ Mapate:
       dist:
       time:
 Igran:
+  stats:
+    eqrad: 26138
+    porad: 25637
+    mass: 85
   warps:
     Chekon:
       dist:
       time:
     Sankmee:
-      dist:
-      time:
+      dist: 13.4
+      time: 25
 Chekon:
   warps:
     Menfarb:
@@ -74,8 +78,8 @@ Chekon:
       dist:
       time:
     Igran:
-      dist:
-      time:
+      dist: 8.7
+      time: 30
 Nerleeni:
   warps:
     Rappi:
@@ -95,14 +99,18 @@ Pukkeera:
       dist: 9.8
       time: 30
     Chekon:
-      dist:
-      time:
+      dist: 7.3
+      time: 20
 Fana:
   warps:
     Sankmee:
       dist:
       time:
 Sankmee:
+  stats:
+    eqrad: 2642
+    porad: 2621
+    mass: 0.27
   warps:
     Menfarb:
       dist:
@@ -158,6 +166,9 @@ Earth:
     Menfarb:
       dist: 8.3
       time: 30
+    Tetamus II:
+      dist:
+      time:
 Mordarl:
   warps:
     Mapate:
