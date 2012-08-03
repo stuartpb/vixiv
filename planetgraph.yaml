@@ -1,52 +1,52 @@
 Taros:
   stats:
-    eqrad:
-    porad:
-    mass:
+    eqrad: 2214
+    porad: 2214
+    mass: 0.31
   warps:
     Winow:
-      dist:
-      time:
+      dist: 10.1
+      time: 30
     Menfarb:
       hidden: true
       dist: 41.2
       time: 60
 Winow:
   stats:
-    eqrad:
-    porad:
-    mass:
+    eqrad: 6422
+    porad: 6398
+    mass: 5.78
   warps:
     Mapate:
-      dist:
-      time:
+      dist: 6.0
+      time: 25
     Renbuda:
-      dist:
-      time:
+      dist: 6.3
+      time: 30
     Rappi:
       hidden: true
-      dist:
-      time:
+      dist: 28.4
+      time: 60
     Dalde-Dalde:
       hidden: true
-      dist:
-      time:
+      dist: 40.4
+      time: 40
 Renbuda:
   stats:
-    eqrad:
-    porad:
-    mass:
+    eqrad: 26423
+    porad: 25761
+    mass: 98
   warps:
     Igran:
-      dist:
-      time:
+      dist: 7.5
+      time: 25
     Taros:
-      dist:
-      time:
+      dist: 11.3
+      time: 35
     Fana:
       hidden: true
-      dist:
-      time:
+      dist: 9.7
+      time: 35
 Menfarb:
   stats:
     eqrad:
@@ -69,11 +69,11 @@ Mapate:
     mass: 4.56
   warps:
     Mordarl:
-      dist:
-      time:
+      dist: 8.7
+      time: 25
     Igran:
-      dist:
-      time:
+      dist: 16.2
+      time: 25
 Igran:
   stats:
     eqrad: 26138
@@ -106,13 +106,13 @@ Chekon:
       time: 30
 Nerleeni:
   stats:
-    eqrad:
-    porad:
-    mass:
+    eqrad: 3217
+    porad: 3005
+    mass: 0.38
   warps:
     Rappi:
-      dist:
-      time:
+      dist: 7.2
+      time: 30
 Zagueel:
   stats:
     eqrad:
@@ -139,13 +139,13 @@ Pukkeera:
       time: 20
 Fana:
   stats:
-    eqrad:
-    porad:
-    mass:
+    eqrad: 4040
+    porad: 4006
+    mass: 0.83
   warps:
     Sankmee:
-      dist:
-      time:
+      dist: 8.1
+      time: 25
 Sankmee:
   stats:
     eqrad: 2642
@@ -153,14 +153,14 @@ Sankmee:
     mass: 0.27
   warps:
     Menfarb:
-      dist:
-      time:
+      dist: 8.5
+      time: 20
     Igran:
       dist: 13.4
       time: 35
     Renbuda:
-      dist:
-      time:
+      dist: 16.1
+      time: 45
     Dalde-Dalde:
       dist: 11.5
       time: 35
@@ -205,17 +205,17 @@ Dalde-Dalde:
       time: 20
     Winow:
       hidden: true
-      dist:
-      time:
+      dist: 40.4
+      time: 40
 Rappi:
   stats:
-    eqrad:
-    porad:
-    mass:
+    eqrad: 2916
+    porad: 2892
+    mass: 0.61
   warps:
     Nerleeni:
-      dist:
-      time:
+      dist: 7.2
+      time: 30
     Tif:
       dist: 7.4
       time: 25
@@ -239,10 +239,10 @@ Earth:
       time:
 Mordarl:
   stats:
-    eqrad:
-    porad:
-    mass:
+    eqrad: 29664
+    porad: 28956
+    mass: 0.45
   warps:
     Mapate:
-      dist:
-      time:
+      dist: 8.7
+      time: 20
