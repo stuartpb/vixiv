@@ -11,6 +11,25 @@ Taros:
     eqrad: 2214
     porad: 2214
     mass: 0.31
+  quests:
+  - name: Coin Collecting
+    pts: 500
+    type: coin
+    description: >
+      Collect eight
+      coins scattered
+      about. Some are
+      well hidden, so
+      keep an eye out!
+  - name: The Sim Emperor
+    pts: 600
+    type: combat
+    description: >
+      Practice
+      fighting the
+      emperor in this
+      battle simulation
+      VIX cooked up.
   warps:
     Winow:
       dist: 10.1
@@ -19,6 +38,7 @@ Taros:
       hidden: true
       dist: 41.2
       time: 60
+
 Winow:
   log: >
     A former epicenter
@@ -32,6 +52,25 @@ Winow:
     eqrad: 6422
     porad: 6398
     mass: 5.78
+  quests:
+  - name: Dronix Attack!
+    pts: 300
+    type: combat
+    description: >
+      Imperial dronix
+      are rampaging
+      violently in this
+      area. Take them
+      out quickly!
+  - name: Tumblers on Winow
+    pts: 400
+    type: combat
+    description: >
+      TUM-873Rs are
+      running wild!
+      We need to
+      defeat the little
+      sneaks!
   warps:
     Mapate:
       dist: 6.0
@@ -47,6 +86,7 @@ Winow:
       hidden: true
       dist: 40.4
       time: 40
+
 Renbuda:
   log: >
     Meteor showers
@@ -60,6 +100,16 @@ Renbuda:
     eqrad: 26423
     porad: 25761
     mass: 98
+  quests:
+  - name: Giant Beetles
+    pts: 600
+    type: combat
+    description: >
+      These massive
+      heracles bettles
+      are resistant to
+      our attacks. Find
+      their weakness!
   warps:
     Igran:
       dist: 7.5
@@ -71,6 +121,7 @@ Renbuda:
       hidden: true
       dist: 9.7
       time: 35
+
 Menfarb:
   log: >
     Menfarb is covered
@@ -84,6 +135,15 @@ Menfarb:
     eqrad: 10280
     porad: 9150
     mass: 31
+  quests:
+  - name: Menfarb Cup
+    pts: 1000
+    type: race
+    description: >
+      You've been invited
+      to participate in the
+      Menfarb Grand Prix!
+      VIXIV can't lose! Right?
   warps:
     Tif:
       dist: 7.4
@@ -94,6 +154,7 @@ Menfarb:
     Gurin Fa:
       dist: 7.8
       time: 30
+
 Mapate:
   log: >
     Deadly flora and
@@ -107,6 +168,16 @@ Mapate:
     eqrad: 6003
     porad: 6003
     mass: 4.56
+  quests:
+  - name: Armored Turret
+    pts: 500
+    type: defense
+    description: >
+      The imperials are
+      attacking! Lock in
+      to the roof of the
+      power plant and
+      fight back!
   warps:
     Mordarl:
       dist: 8.7
@@ -114,6 +185,7 @@ Mapate:
     Igran:
       dist: 16.2
       time: 25
+
 Igran:
   log: >
     Igran is orbited by
@@ -127,6 +199,16 @@ Igran:
     eqrad: 26138
     porad: 25637
     mass: 85
+  quests:
+  - name: Imperial Heritage
+    pts: 900
+    type: combat
+    description: >
+      My successors,
+      the new imperial
+      VIX-680s, are on
+      a rampage! I'm
+      so ashamed!
   warps:
     Chekon:
       dist: 8.7
@@ -134,6 +216,7 @@ Igran:
     Sankmee:
       dist: 13.4
       time: 25
+
 Chekon:
   log: >
     The recent discov-
@@ -146,6 +229,14 @@ Chekon:
     eqrad: 3328
     porad: 3313
     mass: 0.71
+  quests:
+  - name: Stop the Agrillas
+    pts: 600
+    type: combat
+    description: >
+      Agrillas are
+      wreaking havoc!
+      Put an end to it!
   warps:
     Menfarb:
       dist: 16.4
@@ -159,6 +250,7 @@ Chekon:
     Igran:
       dist: 8.7
       time: 30
+
 Nerleeni:
   log: >
     This vast and un-
@@ -172,10 +264,30 @@ Nerleeni:
     eqrad: 3217
     porad: 3005
     mass: 0.38
+  quests:
+  - name: Divided They Fall!
+    pts: 700
+    type: combat
+    description: >
+      Destroy imperial
+      tanks. Our intel
+      suggests they
+      can split into
+      two parts!
+  - name: Monarx Mayhem
+    pts: 1200
+    type: combat
+    description: >
+      Giant monarx
+      are causing
+      problems in
+      the area.
+      Destroy them!
   warps:
     Rappi:
       dist: 7.2
       time: 30
+
 Zagueel:
   log: >
     Frequent solar
@@ -189,6 +301,23 @@ Zagueel:
     eqrad: 12020
     porad: 11210
     mass: 6.06
+  quests:
+  - name: Radar Blackout!
+    pts: 800
+    type: coin
+    description: >
+      Find eight coins.
+      However, solar
+      flares may affect
+      your radar!
+  - name: Splitter Madness
+    pts: 1000
+    type: combat
+    description: >
+      These enemies
+      multiply when
+      hit. Take them
+      out bit by bit!
   warps:
     Logree:
       dist: 6.3
@@ -196,6 +325,7 @@ Zagueel:
     Pukkeera:
       dist: 6.0
       time: 25
+
 Pukkeera:
   log: >
     Imperial forces
@@ -209,6 +339,34 @@ Pukkeera:
     eqrad: 60380
     porad: 53227
     mass: 601
+  quests:
+  - name: From the Depths
+    pts: 1000
+    type: combat
+    description: >
+      Sliverwyrms are
+      surfacing from
+      deep under-
+      ground! Destroy
+      them quickly!
+  - name: Aerial VIXIV
+    pts: 800
+    type: combat
+    description: >
+      Swarms of
+      imperial fighters
+      are closing in!
+      Engage them
+      in aerial combat!
+  - name: Sliverfysh Terror
+    pts: 1200
+    type: combat
+    description: >
+      A sliverfysh has
+      invaded the
+      tunnel! This is a
+      serious problem!
+      What will we do!
   warps:
     Rappi:
       dist: 9.8
@@ -216,6 +374,7 @@ Pukkeera:
     Chekon:
       dist: 7.3
       time: 20
+
 Fana:
   log: >
     Inhabitants of Fana
@@ -229,10 +388,21 @@ Fana:
     eqrad: 4040
     porad: 4006
     mass: 0.83
+  quests:
+  - name: Metamorphosis
+    pts: 600
+    type: combat
+    description: >
+      We discovered
+      invasion plans!
+      Let's prepare
+      to welcome them
+      with an attack!
   warps:
     Sankmee:
       dist: 8.1
       time: 25
+
 Sankmee:
   log: >
     An abundance of
@@ -246,6 +416,16 @@ Sankmee:
     eqrad: 2642
     porad: 2621
     mass: 0.27
+  quests:
+  - name: Lasertails
+    pts: 300
+    type: combat
+    description: >
+      Lasertails leave
+      laser hazards in
+      their wake. Don't
+      let yourself get
+      boxed in!
   warps:
     Menfarb:
       dist: 8.5
@@ -259,6 +439,7 @@ Sankmee:
     Dalde-Dalde:
       dist: 11.5
       time: 35
+
 Logree:
   log: >
     The empire is
@@ -272,6 +453,15 @@ Logree:
     eqrad: 50340
     porad: 46790
     mass: 420
+  quests:
+  - name: Laser Turrets
+    pts: 1000
+    type: combat
+    description: >
+      Soften up
+      imperial defenses
+      by destorying
+      laser turrets!
   warps:
     Zagueel:
       dist: 6.3
@@ -279,6 +469,7 @@ Logree:
     Menfarb:
       dist: 12.0
       time: 35
+
 Tif:
   log: >
     Cities on tiny Tif
@@ -292,10 +483,29 @@ Tif:
     eqrad: 1080
     porad: 1062
     mass: 0.7
+  quests:
+  - name: Rail Resistance
+    pts: 1000
+    type: defense
+    description: >
+      The empire is
+      launching a raid on
+      a rebel cargo train!
+      Dock with the train
+      and protect it!
+  - name: Stop the Drops
+    pts: 600
+    type: combat
+    description: >
+      Enemy transport
+      ships are dropping
+      weapons. Destroy
+      those ships!
   warps:
     Logree:
       dist: 5.6
       time: 25
+
 Gurin Fa:
   log: >
     Undersea cities
@@ -313,6 +523,7 @@ Gurin Fa:
     Earth:
       dist: 5.8
       time: 25
+
 Dalde-Dalde:
   log: >
     The worst criminals
@@ -326,6 +537,25 @@ Dalde-Dalde:
     eqrad: 70310
     porad: 67822
     mass: 1997
+  quests:
+  - name: Coin Hunting
+    pts: 300
+    type: coin
+    description: >
+      Collect eight
+      coins scattered
+      about. Some are
+      well hidden, so
+      keep an eye out!
+  - name: Dalde-Dalde Cup
+    pts: 300
+    type: race
+    description: >
+      They say the best pilots on
+      Dalde-Dalde are organizing
+      a grand prix. You should
+      give it a try! You're sure to
+      win!
   warps:
     Sankmee:
       dist: 11.5
@@ -334,6 +564,7 @@ Dalde-Dalde:
       hidden: true
       dist: 40.4
       time: 40
+
 Rappi:
   log: >
     The planet Rappi
@@ -347,6 +578,25 @@ Rappi:
     eqrad: 2916
     porad: 2892
     mass: 0.61
+  quests:
+  - name: Defensive Orders
+    pts: 900
+    type: defense
+    description: >
+      The empire is
+      targeting a rebel
+      base! Defend it
+      with the turret
+      until help arrives!
+  - name: Contamination!
+    pts: 700
+    type: coin
+    description: >
+      Collect eight
+      coins. Some
+      have a computer
+      virus that may
+      affect VIXIV!
   warps:
     Nerleeni:
       dist: 7.2
@@ -354,6 +604,7 @@ Rappi:
     Tif:
       dist: 7.4
       time: 25
+
 Tetamus II:
   log: >
     The imperial army
@@ -368,6 +619,7 @@ Tetamus II:
     porad: 6332
     mass: 5.97
   warps: {}
+
 Earth:
   log: >
     Once a lush and
@@ -388,6 +640,7 @@ Earth:
     Tetamus II:
       dist: ??
       time: ??
+
 Mordarl:
   log: >
     A cataclysmic
@@ -401,6 +654,25 @@ Mordarl:
     eqrad: 29664
     porad: 28956
     mass: 0.45
+  quests:
+  - name: Taking to the Skies
+    pts: 500
+    type: combat
+    description: >
+      Enemy smallflies
+      detected! Con-
+      vert VIXIV to
+      flight form and
+      shoot 'em down!
+  - name: Another K.R.A.B.
+    pts: 1200
+    type: combat
+    description: >
+      We've detected
+      another giant
+      K.R.A.B.! If he
+      wants a brawl,
+      let's give him one!
   warps:
     Mapate:
       dist: 8.7
