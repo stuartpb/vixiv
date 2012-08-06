@@ -106,7 +106,7 @@ Renbuda:
     type: combat
     description: >
       These massive
-      heracles bettles
+      heracles beetles
       are resistant to
       our attacks. Find
       their weakness!
@@ -162,7 +162,7 @@ Mapate:
     rule Mapate. Some
     have tried to tame
     the wild planet,
-    bt only the hardiest souls
+    but only the hardiest souls
     can contend with its dangers.
   stats:
     eqrad: 6003
@@ -366,7 +366,7 @@ Pukkeera:
       invaded the
       tunnel! This is a
       serious problem!
-      What will we do!
+      What will we do?
   warps:
     Rappi:
       dist: 9.8
@@ -474,7 +474,7 @@ Tif:
   log: >
     Cities on tiny Tif
     are connected
-    by rail It's not an
+    by rail. It's not an
     industrial world,
     but Tif exports
     a great deal of its unique spice
@@ -625,7 +625,7 @@ Earth:
     Once a lush and
     beautiful world,
     Earth became a
-    desolate-empty
+    desolate, empty
     place following a
     cataclysmic battle with aliens
     20 years ago.
@@ -645,7 +645,7 @@ Mordarl:
   log: >
     A cataclysmic
     quake wiped out an
-    ancient cilivization.
+    ancient civilization.
     A massive fissure
     remains, but
     settlers restored beauty to
