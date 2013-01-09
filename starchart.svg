@@ -1,42 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="800px"
-   height="600px"
-   id="starchart-svg"
-   version="1.1"
-   inkscape:version="0.48.3.1 r9886">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="800px" height="600px" id="starchart-svg" version="1.1" inkscape:version="0.48.3.1 r9886">
   <defs id="defs">
-    <path id="triplehead"
-       transform="scale(0.75)"
-       d="M 3,0 l -2,1 0,-2 z M 6,0 l -2,1 0,-2 z M 9,0 l -2,1 0,-2 z" />
-    <path id="arrowhead"
-       transform="scale(0.75)"
-       d="M 3,0 l -2,1 0,-2 z" />
-    <marker
-       orient="auto"
-       refY="0.0"
-       refX="0.0"
-       id="warp-head"
-       style="overflow:visible; fill: red;">
-      <use xlink:href="#triplehead" />
+    <path id="triplehead" transform="scale(0.75)" d="M 3,0 l -2,1 0,-2 z M 6,0 l -2,1 0,-2 z M 9,0 l -2,1 0,-2 z"></path>
+    <path id="arrowhead" transform="scale(0.75)" d="M 3,0 l -2,1 0,-2 z"></path>
+    <marker orient="auto" refy="0.0" refx="0.0" id="warp-head" style="overflow: visible; fill: red;">
+      <use xlink:href="#triplehead"></use>
     </marker>
-    <marker
-       orient="auto"
-       refY="0.0"
-       refX="0.0"
-       id="long-warp-head"
-       style="overflow:visible; fill: red;">
-      <use xlink:href="#arrowhead" />
+    <marker orient="auto" refy="0.0" refx="0.0" id="long-warp-head" style="overflow: visible; fill: red;">
+      <use xlink:href="#arrowhead"></use>
     </marker>
   </defs>
   <style id="styles">
@@ -66,282 +39,96 @@
         marker-end:url(#long-warp-head)
      }
   </style>
-  <metadata
-     id="metadata2990">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
+  <metadata id="metadata2990">
+    <rdf:rdf>
+      <cc:work rdf:about="">
         <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
         <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
+      </cc:work>
+    </rdf:rdf>
   </metadata>
-  <g id="warp-layer"
-     inkscape:groupmode="layer">
-  </g>
-  <g id="planet-layer"
-     inkscape:groupmode="layer">
+  <g id="warp-layer" inkscape:groupmode="layer"><line id="Taros-to-Winow-warp" class="warp-line" x1="31.842846839058268" y1="357.90414352089215" x2="83.28568580470866" y2="309.16882239553917"></line><line id="Taros-to-Menfarb-warp" class="warp-line long-warp" x1="43.55698588473423" y1="358.4570344508351" x2="498.36623764408216" y2="206.85394443645612"></line><line id="Winow-to-Mapate-warp" class="warp-line" x1="113.64479700682732" y1="266.7358492224482" x2="97.60926796586344" y2="245.01029388775882"></line><line id="Winow-to-Renbuda-warp" class="warp-line" x1="128.2061784854028" y1="279.84580874929554" x2="181.46902757298594" y2="311.12716625352215"></line><line id="Winow-to-Rappi-warp" class="warp-line long-warp" x1="134.5523962017845" y1="261.51785155018246" x2="364.20531474776936" y2="58.02792306227198"></line><line id="Winow-to-Dalde-Dalde-warp" class="warp-line long-warp two-way-warp" x1="139.01351225020423" y1="280.3911915117032" x2="671.0726680221757" y2="351.1273837445753"></line><line id="Renbuda-to-Igran-warp" class="warp-line" x1="233.0382090303097" y1="331.1083300861202" x2="277.30887484845147" y2="303.1479095693991"></line><line id="Renbuda-to-Taros-warp" class="warp-line" x1="214.6821815901351" y1="337.85092110971186" x2="74.08901204932445" y2="357.7682844514406"></line><line id="Renbuda-to-Fana-warp" class="warp-line" x1="234.47746918071925" y1="337.89940161599486" x2="425.11257409640365" y2="365.85921192002576"></line><line id="Menfarb-to-Tif-warp" class="warp-line" x1="521.7062299009974" y1="188.95536237643321" x2="518.9687704950126" y2="116.41268811783394"></line><line id="Menfarb-to-Zagueel-warp" class="warp-line" x1="512.4257721164878" y1="196.3536847420675" x2="402.8710694175606" y2="166.92107628966264"></line><line id="Menfarb-to-Gurin_Fa-warp" class="warp-line" x1="531.8709871232676" y1="200.99802371534153" x2="632.3116443836617" y2="222.03272142329232"></line><line id="Mapate-to-Mordarl-warp" class="warp-line two-way-warp" x1="74.86405709462872" y1="196.9884150150573" x2="101.44366437357999" y2="140.0321141098496"></line><line id="Mapate-to-Igran-warp" class="warp-line" x1="77.53429227240815" y1="207.52038806225875" x2="271.49512363795924" y2="262.7542696887063"></line><line id="Igran-to-Chekon-warp" class="warp-line two-way-warp" x1="313.3702641153616" y1="268.0579121779869" x2="265.5812103524268" y2="232.3321114614296"></line><line id="Igran-to-Sankmee-warp" class="warp-line two-way-warp" x1="329.27634273481164" y1="280.3270884651974" x2="486.96516057585615" y2="294.42933790319626"></line><line id="Chekon-to-Menfarb-warp" class="warp-line" x1="243.73931513533424" y1="211.8196556533882" x2="472.1366943233288" y2="201.25792173305905"></line><line id="Chekon-to-Pukkeera-warp" class="warp-line two-way-warp" x1="240.7952876854112" y1="204.57680054642375" x2="265.1660775621479" y2="154.02997348788992"></line><line id="Chekon-to-Mapate-warp" class="warp-line" x1="223.7602013519385" y1="211.8297905233938" x2="117.86559624030748" y2="207.04058738303104"></line><line id="Chekon-to-Igran-warp" class="warp-line two-way-warp" x1="239.96304588463838" y1="220.67193782201312" x2="287.75209964757323" y2="256.39773853857037"></line><line id="Nerleeni-to-Rappi-warp" class="warp-line two-way-warp" x1="263.17056093277006" y1="56.745635921031024" x2="345.91844247577274" y2="48.25867583323284"></line><line id="Zagueel-to-Logree-warp" class="warp-line two-way-warp" x1="364.22707121324055" y1="149.9484680794391" x2="409.0973261434303" y2="113.31968372304652"></line><line id="Zagueel-to-Pukkeera-warp" class="warp-line" x1="345.5037360148227" y1="149.75766852909018" x2="324.14795992588637" y2="139.9011573545491"></line><line id="Pukkeera-to-Rappi-warp" class="warp-line" x1="286.7730371440367" y1="112.97910311584941" x2="342.80142427981656" y2="71.29398442075298"></line><line id="Pukkeera-to-Chekon-warp" class="warp-line two-way-warp" x1="271.70469231458884" y1="126.65303945357626" x2="247.33390243785215" y2="177.1998665121101"></line><line id="Fana-to-Sankmee-warp" class="warp-line" x1="479.9636746918926" y1="364.6856980080585" x2="497.68154654053694" y2="336.9276999597072"></line><line id="Sankmee-to-Menfarb-warp" class="warp-line" x1="524.3225391723233" y1="284.78499091031375" x2="523.3872241383831" y2="248.93124544843133"></line><line id="Sankmee-to-Igran-warp" class="warp-line two-way-warp" x1="514.8902972651885" y1="290.9027615348026" x2="357.2014794241438" y2="276.80051209680374"></line><line id="Sankmee-to-Renbuda-warp" class="warp-line" x1="514.6783972832185" y1="296.1572738207188" x2="274.1079335839071" y2="329.5698408964061"></line><line id="Sankmee-to-Dalde-Dalde-warp" class="warp-line two-way-warp" x1="533.1389501377239" y1="300.764999809337" x2="659.6995531354361" y2="342.5422903156727"></line><line id="Logree-to-Zagueel-warp" class="warp-line two-way-warp" x1="426.60624878675947" y1="91.28136192056093" x2="381.73599385656973" y2="127.91014627695348"></line><line id="Logree-to-Menfarb-warp" class="warp-line" x1="442.34423755491684" y1="95.21001911116119" x2="491.61208222541586" y2="159.3060544441941"></line><line id="Tif-to-Logree-warp" class="warp-line" x1="507.3997679976525" y1="68.94401052894352" x2="484.6677500117373" y2="74.80277735528243"></line><line id="Gurin_Fa-to-Earth-warp" class="warp-line" x1="674.3246622947322" y1="225.0677162361264" x2="655.8765685263392" y2="205.85094881936803"></line><line id="Dalde-Dalde-to-Sankmee-warp" class="warp-line two-way-warp" x1="687.6943498622761" y1="345.464850190663" x2="561.1337468645639" y2="303.6875596843273"></line><line id="Dalde-Dalde-to-Winow-warp" class="warp-line long-warp two-way-warp" x1="676.8197877497958" y1="345.8386584882968" x2="144.7606319778245" y2="275.1024662554247"></line><line id="Rappi-to-Nerleeni-warp" class="warp-line two-way-warp" x1="372.6627590672299" y1="39.484194078968976" x2="289.9148775242272" y2="47.971154166767164"></line><line id="Rappi-to-Tif-warp" class="warp-line" x1="392.7474493932559" y1="43.28007420156691" x2="467.9293730337202" y2="57.28912899216546"></line><line id="Earth-to-Menfarb-warp" class="warp-line" x1="611.6563251229314" y1="172.60324371130528" x2="570.0515943853432" y2="184.8399314434735"></line><line id="Earth-to-Tetamus_II-warp" class="warp-line" x1="627.0804311928777" y1="161.65718224462933" x2="642.9310640356119" y2="139.57023877685336"></line><line id="Mordarl-to-Mapate-warp" class="warp-line two-way-warp" x1="107.63591590537128" y1="112.57476498494266" x2="81.05630862642" y2="169.5310658901504"></line></g>
+  <g id="planet-layer" inkscape:groupmode="layer">
     <g id="Nerleeni-group">
-      <circle
-         id="Nerleeni-node"
-         cx="252.91666"
-         cy="54.78158"
-         r="10"
-         class="planet-node" />
-      <text
-         id="Nerleeni-label"
-         x="255.833325"
-         y="79.36491"
-         class="planet-label">Nerleeni</text>
+      <circle id="Nerleeni-node" cx="252.91666" cy="54.78158" r="10" class="planet-node"></circle>
+      <text id="Nerleeni-label" x="255.833325" y="79.36491" class="planet-label">Nerleeni</text>
     </g>
     <g id="Rappi-group">
-      <circle
-         id="Rappi-node"
-         cx="382.91666"
-         cy="41.44825"
-         r="10"
-         class="planet-node" />
-      <text
-         id="Rappi-label"
-         x="395.833325"
-         y="66.03158"
-         class="planet-label">Rappi</text>
+      <circle id="Rappi-node" cx="382.91666" cy="41.44825" r="10" class="planet-node"></circle>
+      <text id="Rappi-label" x="395.833325" y="66.03158" class="planet-label">Rappi</text>
     </g>
     <g id="Tif-group">
-      <circle
-         id="Tif-node"
-         cx="517.08332"
-         cy="66.44825"
-         r="10"
-         class="planet-node" />
-      <text
-         id="Tif-label"
-         x="529.999985"
-         y="91.03158"
-         class="planet-label">Tif</text>
+      <circle id="Tif-node" cx="517.08332" cy="66.44825" r="10" class="planet-node"></circle>
+      <text id="Tif-label" x="529.999985" y="91.03158" class="planet-label">Tif</text>
     </g>
     <g id="Logree-group">
-      <circle
-         id="Logree-node"
-         cx="436.24999"
-         cy="87.28158"
-         r="10"
-         class="planet-node" />
-      <text
-         id="Logree-label"
-         x="449.166655"
-         y="111.86491"
-         class="planet-label">Logree</text>
+      <circle id="Logree-node" cx="436.24999" cy="87.28158" r="10" class="planet-node"></circle>
+      <text id="Logree-label" x="449.166655" y="111.86491" class="planet-label">Logree</text>
     </g>
     <g id="Pukkeera-group">
-      <circle
-         id="Pukkeera-node"
-         cx="278.74999"
-         cy="118.94825"
-         r="10"
-         class="planet-node" />
-      <text
-         id="Pukkeera-label"
-         x="254.166655"
-         y="143.53158"
-         class="planet-label">Pukkeera</text>
+      <circle id="Pukkeera-node" cx="278.74999" cy="118.94825" r="10" class="planet-node"></circle>
+      <text id="Pukkeera-label" x="254.166655" y="143.53158" class="planet-label">Pukkeera</text>
     </g>
     <g id="Zagueel-group">
-      <circle
-         id="Zagueel-node"
-         cx="354.58333"
-         cy="153.94825"
-         r="10"
-         class="planet-node" />
-      <text
-         id="Zagueel-label"
-         x="357.499995"
-         y="188.53158"
-         class="planet-label">Zagueel</text>
+      <circle id="Zagueel-node" cx="354.58333" cy="153.94825" r="10" class="planet-node"></circle>
+      <text id="Zagueel-label" x="357.499995" y="188.53158" class="planet-label">Zagueel</text>
     </g>
     <g id="Menfarb-group">
-      <circle
-         id="Menfarb-node"
-         cx="522.08332"
-         cy="198.94825"
-         r="10"
-         class="planet-node" />
-      <text
-         id="Menfarb-label"
-         x="534.999985"
-         y="223.53158"
-         class="planet-label">Menfarb</text>
+      <circle id="Menfarb-node" cx="522.08332" cy="198.94825" r="10" class="planet-node"></circle>
+      <text id="Menfarb-label" x="534.999985" y="223.53158" class="planet-label">Menfarb</text>
     </g>
     <g id="Earth-group">
-      <circle
-         id="Earth-node"
-         cx="621.24998"
-         cy="169.78158"
-         r="10"
-         class="planet-node" />
-      <text
-         id="Earth-label"
-         x="634.166645"
-         y="194.36491"
-         class="planet-label">Earth</text>
+      <circle id="Earth-node" cx="621.24998" cy="169.78158" r="10" class="planet-node"></circle>
+      <text id="Earth-label" x="634.166645" y="194.36491" class="planet-label">Earth</text>
     </g>
     <g id="Tetamus_II-group">
-      <circle
-         id="Tetamus_II-node"
-         cx="672.08332"
-         cy="98.94825"
-         r="10"
-         class="planet-node" />
-      <text
-         id="Tetamus_II-label"
-         x="684.999985"
-         y="123.53158"
-         class="planet-label">Tetamus II</text>
+      <circle id="Tetamus_II-node" cx="672.08332" cy="98.94825" r="10" class="planet-node"></circle>
+      <text id="Tetamus_II-label" x="684.999985" y="123.53158" class="planet-label">Tetamus II</text>
     </g>
     <g id="Gurin_Fa-group">
-      <circle
-         id="Gurin_Fa-node"
-         cx="681.24998"
-         cy="232.28159"
-         r="10"
-         class="planet-node" />
-      <text
-         id="Gurin_Fa-label"
-         x="694.166645"
-         y="256.86492"
-         class="planet-label">Gurin Fa</text>
+      <circle id="Gurin_Fa-node" cx="681.24998" cy="232.28159" r="10" class="planet-node"></circle>
+      <text id="Gurin_Fa-label" x="694.166645" y="256.86492" class="planet-label">Gurin Fa</text>
     </g>
     <g id="Chekon-group">
-      <circle
-         id="Chekon-node"
-         cx="233.74999"
-         cy="212.28159"
-         r="10"
-         class="planet-node" />
-      <text
-         id="Chekon-label"
-         x="246.666655"
-         y="236.86492"
-         class="planet-label">Chekon</text>
+      <circle id="Chekon-node" cx="233.74999" cy="212.28159" r="10" class="planet-node"></circle>
+      <text id="Chekon-label" x="246.666655" y="236.86492" class="planet-label">Chekon</text>
     </g>
     <g id="Mordarl-group">
-      <circle
-         id="Mordarl-node"
-         cx="114.58332"
-         cy="104.78159"
-         r="10"
-         class="planet-node" />
-      <text
-         id="Mordarl-label"
-         x="127.499985"
-         y="129.36492"
-         class="planet-label">Mordarl</text>
+      <circle id="Mordarl-node" cx="114.58332" cy="104.78159" r="10" class="planet-node"></circle>
+      <text id="Mordarl-label" x="127.499985" y="129.36492" class="planet-label">Mordarl</text>
     </g>
     <g id="Mapate-group">
-      <circle
-         id="Mapate-node"
-         cx="67.916653"
-         cy="204.78159"
-         r="10"
-         class="planet-node" />
-      <text
-         id="Mapate-label"
-         x="80.833318"
-         y="229.36492"
-         class="planet-label">Mapate</text>
+      <circle id="Mapate-node" cx="67.916653" cy="204.78159" r="10" class="planet-node"></circle>
+      <text id="Mapate-label" x="80.833318" y="229.36492" class="planet-label">Mapate</text>
     </g>
     <g id="Winow-group">
-      <circle
-         id="Winow-node"
-         cx="119.58332"
-         cy="274.78159"
-         r="10"
-         class="planet-node" />
-      <text
-         id="Winow-label"
-         x="132.499985"
-         y="299.36492"
-         class="planet-label">Winow</text>
+      <circle id="Winow-node" cx="119.58332" cy="274.78159" r="10" class="planet-node"></circle>
+      <text id="Winow-label" x="132.499985" y="299.36492" class="planet-label">Winow</text>
     </g>
     <g id="Renbuda-group">
-      <circle
-         id="Renbuda-node"
-         cx="224.58332"
-         cy="336.44826"
-         r="10"
-         class="planet-node" />
-      <text
-         id="Renbuda-label"
-         x="237.499985"
-         y="361.03159"
-         class="planet-label">Renbuda</text>
+      <circle id="Renbuda-node" cx="224.58332" cy="336.44826" r="10" class="planet-node"></circle>
+      <text id="Renbuda-label" x="237.499985" y="361.03159" class="planet-label">Renbuda</text>
     </g>
     <g id="Igran-group">
-      <circle
-         id="Igran-node"
-         cx="319.58332"
-         cy="276.44826"
-         r="10"
-         class="planet-node" />
-      <text
-         id="Igran-label"
-         x="332.499985"
-         y="301.03159"
-         class="planet-label">Igran</text>
+      <circle id="Igran-node" cx="319.58332" cy="276.44826" r="10" class="planet-node"></circle>
+      <text id="Igran-label" x="332.499985" y="301.03159" class="planet-label">Igran</text>
     </g>
     <g id="Sankmee-group">
-      <circle
-         id="Sankmee-node"
-         cx="524.58332"
-         cy="294.78159"
-         r="10"
-         class="planet-node" />
-      <text
-         id="Sankmee-label"
-         x="537.499985"
-         y="319.36492"
-         class="planet-label">Sankmee</text>
+      <circle id="Sankmee-node" cx="524.58332" cy="294.78159" r="10" class="planet-node"></circle>
+      <text id="Sankmee-label" x="537.499985" y="319.36492" class="planet-label">Sankmee</text>
     </g>
     <g id="Dalde-Dalde-group">
-      <circle
-         id="Dalde-Dalde-node"
-         cx="696.24998"
-         cy="351.44826"
-         r="10"
-         class="planet-node" />
-      <text
-         id="Dalde-Dalde-label"
-         x="709.166645"
-         y="376.03159"
-         class="planet-label">Dalde-Dalde</text>
+      <circle id="Dalde-Dalde-node" cx="696.24998" cy="351.44826" r="10" class="planet-node"></circle>
+      <text id="Dalde-Dalde-label" x="709.166645" y="376.03159" class="planet-label">Dalde-Dalde</text>
     </g>
     <g id="Taros-group">
-      <circle
-         id="Taros-node"
-         cx="24.58332"
-         cy="364.78159"
-         r="10"
-         class="planet-node" />
-      <text
-         id="Taros-label"
-         x="37.499985"
-         y="389.36492"
-         class="planet-label">Taros</text>
+      <circle id="Taros-node" cx="24.58332" cy="364.78159" r="10" class="planet-node"></circle>
+      <text id="Taros-label" x="37.499985" y="389.36492" class="planet-label">Taros</text>
     </g>
     <g id="Fana-group">
-      <circle
-         id="Fana-node"
-         cx="474.58332"
-         cy="373.11492"
-         r="10"
-         class="planet-node" />
-      <text
-         id="Fana-label"
-         x="487.499985"
-         y="397.69825"
-         class="planet-label">Fana</text>
+      <circle id="Fana-node" cx="474.58332" cy="373.11492" r="10" class="planet-node"></circle>
+      <text id="Fana-label" x="487.499985" y="397.69825" class="planet-label">Fana</text>
     </g>
   </g>
 </svg>
