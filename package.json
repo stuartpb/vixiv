@@ -1,0 +1,20 @@
+{
+  "name": "vixiv",
+  "version": "0.1.0",
+  "description": "Data and tools for X-Scape",
+  "main": "graph-starchart.js",
+  "dependencies": {
+    "js-yaml": "~1.0.2",
+    "jsdom": "~0.2.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stuartpb/vixiv.git"
+  },
+  "author": "Stuart P. Bentley",
+  "license": "MIT"
+}
