@@ -4,7 +4,7 @@
   "description": "Data and tools for X-Scape",
   "main": "graph-starchart.js",
   "dependencies": {
-    "js-yaml": "~1.0.2",
+    "js-yaml": "~3.13.1",
     "jsdom": "~0.2.15"
   },
   "devDependencies": {},
